@@ -1,6 +1,6 @@
 # Intro-Bioinformatics-Lab 
 
-Reports for the Introduction to Bionformatics labs, second semester of the AY 2021-22 
+Reports for the Introduction to Bionformatics labs, second semester of AY 2021-22 at BITS Pilani under Dr. Shibasish Chowdhury 
 
 All reports except 2 and 5 written in Latex 
 
